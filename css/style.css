@@ -1,10 +1,39 @@
-.col-md-4 {
+#col-md-4 {
     color: black;
 }
 
 body {
-    background: url("http://www.publicdomainpictures.net/pictures/40000/velka/fondo-color-cian.jpg") no-repeat center fixed;
+    background: url("http://wallpapercraft.net/wp-content/uploads/2016/10/Free-HD-Cyan-Backgrounds.jpg") no-repeat center fixed;
     
     
 
 } 
+.aboutme { font-size:30px;
+
+}
+
+
+
+
+li {
+    display: inline;
+}
+
+
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#my{
+    border-radius: 50%;
+}
+
+#myname{
+    font-size:80px;
+}
+    
+
+
+
